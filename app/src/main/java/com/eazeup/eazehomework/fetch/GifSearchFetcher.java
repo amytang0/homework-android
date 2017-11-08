@@ -22,7 +22,7 @@ import rx.schedulers.Schedulers;
  */
 public class GifSearchFetcher {
 
-    public static final int DEFAULT_LIMIT = 3;
+    public static final int DEFAULT_LIMIT = 20;
 
     private static final String TAG = "GifSearchFetcher";
     private static final String API_KEY = "xZMaoReB8UNQTNjM6NTbmgMNGjAFXvgy";
